@@ -1,0 +1,15 @@
+{
+    "0x38ed1739":"swapExactTokensForTokens",
+    "0x7ff36ab5":"swapExactETHForTokens",
+    "0x791ac947":"swapExactTokensForETHSupportingFeeOnTransferTokens",
+    "0x4a25d94a":"swapTokensForExactETH",
+    "0xfb3bdb41":"swapETHForExactTokens",
+    "0xb6f9de95":"swapExactETHForTokensSupportingFeeOnTransferTokens",
+    "0x5c11d795":"swapExactTokensForTokensSupportingFeeOnTransferTokens",
+    "0x8803dbee":"swapTokensForExactTokens",
+    "0x4e71d92d":"claim",
+    "0x18cbafe5":"swapExactTokensForETH",
+    "0x1d85bf03":"bugNFT",
+    "0xded9382a":"removeLiquidityETHWithPermit",
+    "0xe0f4e5b2":"swapForBNB"
+}
