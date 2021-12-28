@@ -14,11 +14,14 @@ class Config():
 class Default():
     def __init__(self):
         self.bsc = conf.get("default","bsc")
-        self.slippageTolerance = int(conf.get("default","slippageTolerance"))
+        self.bscWebsocket = conf.get("default","bsc_ws")
+        self.inSlippageTolerance = int(conf.get("default","inSlippageTolerance"))
+        self.outSlippageTolerance = int(conf.get("default","outSlippageTolerance"))
 
 class Address():
     def __init__(self):
         self.tokenContract = conf.get("address","tokenContract")
+        self.middleTokenContract = conf.get("address","middleTokenContract")
         self.panRouterContract = conf.get("address","panRouterContract")
         self.wbnbContract = conf.get("address","wbnbContract")
         self.sender = conf.get("address","sender")

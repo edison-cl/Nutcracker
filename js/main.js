@@ -978,5 +978,5 @@ try {
     var results = new canoe.decodeConstructorArgs(fname, abiExample, input.substring(10))
     console.log(JSON.stringify(results))
 } catch (error) {
-    console.log(process.argv[2]," decode input data false")
+    console.log(0)
 }

@@ -11,5 +11,9 @@
     "0x18cbafe5":"swapExactTokensForETH",
     "0x1d85bf03":"bugNFT",
     "0xded9382a":"removeLiquidityETHWithPermit",
-    "0xe0f4e5b2":"swapForBNB"
+    "0xe0f4e5b2":"swapForBNB",
+    "0xa9059cbb":"transfer",
+    "0x095ea7b3":"approve",
+    "0x6c197ff5":"sell",
+    "0x7f8661a1":"exit"
 }
