@@ -1,4 +1,8 @@
 *.vscode
 *套利机器人.txt
-/py/config.ini
+/py/config_locl.ini
+/py/tx.py
+/py/w3Simple.py
+/py/ws.py
+/py/sniper.py
 *__pycache__
